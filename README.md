@@ -49,7 +49,7 @@ moving arrays between Numpy and C++, requires Boost.Python.
 -----------------------
 
 
-Run Makefile. Create two folders for the output data:
+Run make. Create two folders for the output data:
 
 * Data_space;
 * Data_time series.
